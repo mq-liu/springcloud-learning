@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-consumer/springcloud-eureka-consumer.iml" filepath="$PROJECT_DIR$/springcloud-eureka-consumer/springcloud-eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-consumer-feign/springcloud-eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/springcloud-eureka-consumer-feign/springcloud-eureka-consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-provider/springcloud-eureka-provider.iml" filepath="$PROJECT_DIR$/springcloud-eureka-provider/springcloud-eureka-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-hystrix/springcloud-hystrix.iml" filepath="$PROJECT_DIR$/springcloud-hystrix/springcloud-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-hystrix-feign/springcloud-hystrix-feign.iml" filepath="$PROJECT_DIR$/springcloud-hystrix-feign/springcloud-hystrix-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-learning.iml" filepath="$PROJECT_DIR$/springcloud-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zuul/springcloud-zuul.iml" filepath="$PROJECT_DIR$/springcloud-zuul/springcloud-zuul.iml" />
     </modules>
   </component>
 </project>

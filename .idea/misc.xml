@@ -9,6 +9,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-hystrix-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-zuul/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,8 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-eureka-consumer" />
+        <module name="springcloud-eureka-consumer-feign" />
         <module name="springcloud-eureka-provider" />
         <module name="springcloud-eureka-server" />
+        <module name="springcloud-hystrix" />
+        <module name="springcloud-hystrix-feign" />
+        <module name="springcloud-zuul" />
       </profile>
       <profile name="Annotation profile for springcloud-learning" enabled="true">
         <sourceOutputDir name="../springcloud-eureka-provider/target/generated-sources/annotations" />
@@ -19,9 +23,13 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springcloud-eureka-consumer" target="1.8" />
+      <module name="springcloud-eureka-consumer-feign" target="1.8" />
       <module name="springcloud-eureka-provider" target="1.8" />
       <module name="springcloud-eureka-server" target="1.8" />
+      <module name="springcloud-hystrix" target="1.8" />
+      <module name="springcloud-hystrix-feign" target="1.8" />
       <module name="springcloud-learning" target="1.8" />
+      <module name="springcloud-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

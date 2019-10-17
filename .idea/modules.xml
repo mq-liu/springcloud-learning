@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-configclient/springcloud-configclient.iml" filepath="$PROJECT_DIR$/springcloud-configclient/springcloud-configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-configserver/springcloud-configserver.iml" filepath="$PROJECT_DIR$/springcloud-configserver/springcloud-configserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-consumer/springcloud-eureka-consumer.iml" filepath="$PROJECT_DIR$/springcloud-eureka-consumer/springcloud-eureka-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-consumer-feign/springcloud-eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/springcloud-eureka-consumer-feign/springcloud-eureka-consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-provider/springcloud-eureka-provider.iml" filepath="$PROJECT_DIR$/springcloud-eureka-provider/springcloud-eureka-provider.iml" />
